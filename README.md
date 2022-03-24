@@ -1,2 +1,2 @@
 # linear-algebra-notes
-A handy notebook for refreshing linear algebra concepts 
+This repo is a quick refreshment of the concepts covered in *Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares* by Stephen Boyd and Lieven Vandenberghe. The focus is on the basics in linear algebra as well as how they are used in machine learning and artificial intelligence. Mathematical details and steps of derivations illustrated in the book are not included in this repo. 
